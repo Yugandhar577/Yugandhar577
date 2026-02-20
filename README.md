@@ -16,16 +16,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science & Engineering student
-- 🕸️ Interested in **Full-Stack Web Development** + **Artificial Intelligence**
-- 🤖 Exploring **LLMs**, **XAI**, and **agent-based systems**
-- ⚙️ Strong focus on **engineering + implementation** (not just theory)
+-  Computer Science & Engineering student
+-  Interested in **Full-Stack Web Development** + **Artificial Intelligence**
+-  Exploring **LLMs**, **XAI**, and **agent-based systems**
+-  Strong focus on **engineering + implementation** (not just theory)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 > These are the repos worth opening first.
 
@@ -37,15 +37,15 @@
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
-- ✅ Building **end-to-end products** (backend + UI + deployment)
-- ✅ Learning **distributed architecture** (queues, caching, event pipelines)
-- ✅ Working on **LLM-based apps** and **explainability**
+-  Building **end-to-end products** (backend + UI + deployment)
+-  Learning **distributed architecture** (queues, caching, event pipelines)
+-  Working on **LLM-based apps** and **explainability**
 
 ---
 
-## ⚙️ Technology Stack Overview
+## Technology Stack Overview
 
 | **Category** | **Primary Tools & Frameworks** |
 |:--|:--|
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <p align="center">
   <a href="[PASTE_LINKEDIN_HERE](https://www.linkedin.com/in/yugandhar-paulbudhe-801820311/)">
@@ -75,7 +75,7 @@
 
 ---
 
-## 🧭 Roadmap (Project Timeline)
+## Roadmap (Project Timeline)
 
 ```mermaid
 timeline
